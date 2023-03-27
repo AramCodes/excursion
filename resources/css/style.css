@@ -5,13 +5,29 @@ body {
 
 }
 
+/*Headings*/
+
 .header--main {
     font-weight: normal;
     font-size:3.125rem;
     color: white;
 }
 
+.header--secondary {
+    font-weight: 300;
+    color: white;
+    font-size:2.625rem;
+}
+
+.header--subheader {
+    font-size: 1.3125rem;
+    color: gray;
+}
+
+/*Links*/
+
 .link--cta {
     font-size: 16px;
     color: aquamarine;
 }
+
